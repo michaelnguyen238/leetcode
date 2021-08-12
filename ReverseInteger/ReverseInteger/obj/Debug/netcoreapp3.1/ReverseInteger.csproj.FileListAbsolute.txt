@@ -1,0 +1,12 @@
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/bin/Debug/netcoreapp3.1/ReverseInteger.deps.json
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/bin/Debug/netcoreapp3.1/ReverseInteger.runtimeconfig.json
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/bin/Debug/netcoreapp3.1/ReverseInteger.runtimeconfig.dev.json
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/bin/Debug/netcoreapp3.1/ReverseInteger.dll
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/bin/Debug/netcoreapp3.1/ReverseInteger.pdb
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.AssemblyInfoInputs.cache
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.AssemblyInfo.cs
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.csproj.CoreCompileInputs.cache
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.dll
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.pdb
+/Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseInteger/obj/Debug/netcoreapp3.1/ReverseInteger.genruntimeconfig.cache

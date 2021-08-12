@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ReverseIntegerTests
+build_property.ProjectDir = /Users/michael/Documents/GitHub/leetcode/ReverseInteger/ReverseIntegerTests/

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{B46DFA88-5389-4E43-A136-BD1CE5D54F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseIntegerTests", "ReverseIntegerTests\ReverseIntegerTests.csproj", "{9557C951-830C-413A-B3DC-AFEFA1CEBFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46DFA88-5389-4E43-A136-BD1CE5D54F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46DFA88-5389-4E43-A136-BD1CE5D54F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46DFA88-5389-4E43-A136-BD1CE5D54F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46DFA88-5389-4E43-A136-BD1CE5D54F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9557C951-830C-413A-B3DC-AFEFA1CEBFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9557C951-830C-413A-B3DC-AFEFA1CEBFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9557C951-830C-413A-B3DC-AFEFA1CEBFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9557C951-830C-413A-B3DC-AFEFA1CEBFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E96416-178B-4320-A92E-B041919320D7}
+	EndGlobalSection
+EndGlobal

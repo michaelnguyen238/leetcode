@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{B46DFA88-5389-4E43-A136-BD1CE5D54F56}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ReverseInteger/Program.cs" Line="18" Column="16" />
+      <File FileName="ReverseIntegerTests/UnitTest1.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReverseInteger" expanded="True">
+            <Node name="ReverseInteger" expanded="True" />
+            <Node name="ReverseIntegerTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True">
+                  <Node name="ReverseInteger" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ReverseInteger" expanded="True" selected="True">
+            <Node name="ReverseIntegerTests" expanded="True">
+              <Node name="ReverseIntegerTests" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReverseInteger PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
